@@ -713,9 +713,4 @@ speakBlocking: aString
 	^client postSync: client robotName method: 'speakBlocking'
 		jsonString: (client jsonArrayStringFor: {aString})! !
 
-
-"Postscript:
-
-First working milestone-1 version of the InMoov2/MRL REST client API.
-Verified live against MRL 1.1.1610 in virtual mode (research/06).
-"!
+!
