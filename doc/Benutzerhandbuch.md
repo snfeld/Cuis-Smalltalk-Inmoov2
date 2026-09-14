@@ -1,6 +1,6 @@
 # Cuis-Smalltalk-API für den InMoov-Roboter — Benutzerhandbuch
 
-Version: 1.0 (2026-08-24) · Paket: `Inmoov-Mrl` (+ `Inmoov-Demo`, `Tests-Inmoov-Mrl`)
+Version: 0.1 (2026-08-24) · Paket: `Inmoov-Mrl` (+ `Inmoov-Demo`, `Tests-Inmoov-Mrl`)
 Zielgruppe: Smalltalk-Entwickler, die einen InMoov-Roboter (MyRobotLab, kurz „MRL") aus Cuis-Smalltalk heraus steuern wollen.
 
 ---
